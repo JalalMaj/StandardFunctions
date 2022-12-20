@@ -14,4 +14,8 @@ fun main(args: Array<String>) {
             }
     }
     println(list)
+
+    var a = 5678
+    var result = (a.div(10))%10
+    println(result)
 }
